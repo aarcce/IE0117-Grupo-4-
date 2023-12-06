@@ -1,6 +1,8 @@
 // Proyecto 2
 // Grupo 4
 // Integrantes: Brenda Castro, Bryan Mora y Juan Diego Arce
+// Este codigo calcula los angulos internos de un poligono
+// Si el poligono es no concavo, este no los calcula
 
 #include <stdio.h>
 #include <math.h>
