@@ -1,5 +1,5 @@
 p1:
-	#Aqui va la linea para compilar y crear el exe
+	gcc proyecto1.c -o exe
 
 p2:
 	gcc proyecto2.c -o exe -lm
