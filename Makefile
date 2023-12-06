@@ -5,4 +5,4 @@ p2:
 	gcc proyecto2.c -o exe -lm
 
 p3:
-	#Aqui va la linea para compilar y crear el exe
+	gcc proyecto3.c -o exe
